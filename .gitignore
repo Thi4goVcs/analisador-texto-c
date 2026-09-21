@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# binario gerado pelo make (no Linux/Mac nao tem extensao)
+analisador

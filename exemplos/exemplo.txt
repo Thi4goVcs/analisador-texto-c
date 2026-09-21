@@ -1,0 +1,8 @@
+Todo programa começa pequeno. Um programa pequeno que funciona vale mais
+do que um programa grande que ninguém terminou.
+
+Subir código todo dia é um hábito. O hábito importa mais do que o tamanho
+do projeto, e o Programa de amanhã sempre parte do programa de hoje.
+
+Erros fazem parte: erro de compilação, erro de lógica, erro de digitação.
+Quem corrige o erro aprende, quem esconde o erro repete.
