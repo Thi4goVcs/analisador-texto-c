@@ -1,4 +1,4 @@
-CC ?= gcc
+CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -O2
 
 analisador: main.c
